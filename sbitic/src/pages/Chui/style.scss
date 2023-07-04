@@ -1,0 +1,336 @@
+.Head_Chui{
+    display: flex;
+    background-color: #082F2C;
+    font-size: 250%;
+    font-weight: 700;
+    color: #7F9391;
+    img{
+        width: 15%;
+    }
+    
+    &__heads{
+        
+        padding-left: 25%;
+        padding-top: 5%;
+        
+        
+    }
+
+}
+
+.Colection_Chui{
+    display: flex;
+    text-align: center;
+    height: 16800px;
+    background-color: #082F2C;
+
+    &__text1{
+        position: absolute;
+        margin: 7% 52%;
+        background-color: #426869;
+        color: white;
+        width: 45%;
+        font-size: 250%;
+        padding-top: 7%;
+        padding-bottom: 10%;
+        height: 70%;
+
+    }
+
+    &__text2{
+        position: absolute;
+        margin: 75% 2%;
+        background-color: #426869;
+        color: white;
+        width: 40%;
+        font-size: 250%;
+        padding-top: 10%;
+        padding-bottom: 10%;
+        height: 75%;
+    }
+
+    &__block1{
+        position: absolute;
+        margin: 45% 50%;
+        background-color: #426869;
+        width: 30%;
+        height: 40%;
+    }
+
+    &__block2{
+        position: absolute;
+        margin: 140% 35%;
+        background-color: #426869;
+        width: 50%;
+        height: 25%;
+    }
+
+    &__block3{
+        position: absolute;
+        margin: 200% 58%;
+        background-color: #426869;
+        width: 25%;
+        height: 40%;
+    }
+
+    &__block4{
+        position: absolute;
+        margin: 220% 35%;
+        background-color: #426869;
+        width: 25%;
+        height: 25%;
+    }
+
+    &__block5{
+        position: absolute;
+        margin: 235% 37%;
+        background-color: #426869;
+        width: 62%;
+        height: 175%;
+    }
+
+    &__block6{
+        position: absolute;
+        margin: 385% 15%;
+        background-color: #426869;
+        width: 45%;
+        height: 60%;
+    }
+
+    &__block7{
+        position: absolute;
+        margin: 385% 65%;
+        background-color: #426869;
+        width: 27.4%;
+        height: 100%;
+    }
+
+    &__block8{
+        position: absolute;
+        margin: 467% 37%;
+        background-color: #426869;
+        width: 40%;
+        height: 100%;
+    }
+
+    &__block9{
+        position: absolute;
+        margin: 608% 47%;
+        background-color: #426869;
+        width: 35%;
+        height: 50%;
+    }
+
+    &__block10{
+        position: absolute;
+        margin: 640% 35%;
+        background-color: #426869;
+        width: 38.9%;
+        height: 35%;
+    }
+
+    &__block11{
+        position: absolute;
+        margin: 720% 37%;
+        background-color: #426869;
+        width: 45%;
+        height: 70%;
+    }
+
+    &__block12{
+        position: absolute;
+        margin: 770% 27%;
+        background-color: #426869;
+        width: 43%;
+        height: 120%;
+    }
+
+}
+
+.img1_Chui{
+    margin: 10% 10%;
+}
+
+.img2_Chui{
+    position: absolute;
+    margin: 70% 0;
+}
+
+.img3_Chui{
+    position: absolute;
+    margin: 150% -40%;
+}
+
+.img4_Chui{
+    position: absolute;
+    margin: 160% 15%;
+}
+
+.img5_Chui{
+    position: absolute;
+    margin: 227% 0;
+}
+
+.img6_Chui{
+    position: absolute;
+    margin: 273% -43%;
+}
+
+.img7_Chui{
+    position: absolute;
+    margin: 333% 0%;
+}
+
+.img8_Chui{
+    position: absolute;
+    margin: 350% -40%;
+}
+
+.img9_Chui{
+    position: absolute;
+    margin: 410% -40%;
+}
+
+.img10_Chui{
+    position: absolute;
+    margin: 420% 15%;
+}
+
+.img11_Chui{
+    position: absolute;
+    margin: 468% -5%;
+}
+
+.img12_Chui{
+    position: absolute;
+    margin: 535% -40%;
+}
+
+
+.img13_Chui{
+    position: absolute;
+    margin: 555% 10%;
+}
+
+.img14_Chui{
+    position: absolute;
+    margin: 610% -35%;
+}
+
+.img15_Chui{
+    position: absolute;
+    margin: 617% 5%;
+}
+
+.img16_Chui{
+    position: absolute;
+    margin: 650% 19%;
+}
+
+.img17_Chui{
+    position: absolute;
+    margin: 670% -40%;
+}
+
+.img18_Chui{
+    position: absolute;
+    margin: 700% 15%;
+}
+
+.img19_Chui{
+    position: absolute;
+    margin: 745% -42%;
+}
+
+.img20_Chui{
+    position: absolute;
+    margin: 763% 5%;
+}
+
+.img21_Chui{
+    position: absolute;
+    margin: 795% -35%;
+}
+
+.img22_Chui{
+    position: absolute;
+    margin: 825% 10%;
+}
+
+
+.Butons_Chui{
+    display: flex;
+    text-align: center;
+    height: 300px;
+    background-color: #082F2C;
+
+    &__block3{
+        position: absolute;
+        margin: 5% 27% ;
+        background-color: #426869;
+        width: 50%;
+        height: 15%;
+    }
+
+    &__block2{
+        position: absolute;
+        opacity: 0.1;
+        margin: 0 23% ;
+        background-color: #426869;
+        width: 20%;
+        height: 30%;
+    }
+    &__block1{
+        position: absolute;
+        opacity: 0.1;
+        margin: 2% 33% ;
+        background-color: #426869;
+        width: 20%;
+        height: 23%;
+
+        
+    }
+}
+
+.Buton_Chui{
+    display: flex;
+    
+    font-family: 'Kanit', sans-serif;
+    color: #000;
+    
+    &__img{
+        align-items: center;
+        padding-top: 40%;
+        padding-left: 100%;
+        
+    }
+    a{
+    text-decoration: none;
+    color: black;
+    transition: 0.3;
+    vertical-align: middle;
+    }
+    a:hover{font-size: 120%;
+
+    }
+    
+
+
+
+    button{
+    
+    
+    display:flex;
+    font-weight: 700;
+    justify-content: center;
+    align-items: center;
+    margin: 3% 20%;
+    background-color:#304B4C;
+    color: #000;
+    
+    border:none;
+    border-radius: 10px;
+    min-width: 70%;
+    min-height: 80px;
+    transition: 0.4;
+    font-size: 200%;}}
