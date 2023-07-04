@@ -1,0 +1,38 @@
+.home{
+    background-color: #A6A6A6;
+}
+
+.Header{
+    background-color: #A6A6A6;
+    font-family: 'Kanit'; 
+	src: url('C:\Users\egors\Desktop\spb4\sbitic\public\ofont.ru_Kanit Cyrillic.ttf');
+    display: flex;
+    
+
+    &__menu{
+        flex:1;
+        display: flex;
+        padding-top: 1%;
+        >div{
+            
+            flex:1;
+            a {
+                text-align: center;
+                vertical-align: middle;
+                font-size: 150%;
+                text-decoration: none;
+                color: black;
+            }
+        }
+    }
+
+    &__logo{
+        flex: 1;
+    }
+    
+    
+
+}
+
+
+
